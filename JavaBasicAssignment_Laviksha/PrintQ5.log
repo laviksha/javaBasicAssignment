@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:29:48</date>
+  <millis>1581422388376</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>WARNING</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Can cause ArrayIndexOutOfBoundsException</message>
+</record>
+<record>
+  <date>2020-02-11T17:29:48</date>
+  <millis>1581422388397</millis>
+  <sequence>1</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>SEVERE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Error occured</message>
+  <exception>
+    <message>java.lang.NullPointerException</message>
+    <frame>
+      <class>java.io.Writer</class>
+      <method>write</method>
+      <line>127</line>
+    </frame>
+    <frame>
+      <class>java.io.PrintStream</class>
+      <method>write</method>
+      <line>503</line>
+    </frame>
+    <frame>
+      <class>java.io.PrintStream</class>
+      <method>print</method>
+      <line>653</line>
+    </frame>
+    <frame>
+      <class>java.io.PrintStream</class>
+      <method>println</method>
+      <line>792</line>
+    </frame>
+    <frame>
+      <class>assignment.PrintQ5</class>
+      <method>main</method>
+      <line>34</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:30:43</date>
+  <millis>1581422443798</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>WARNING</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Can cause ArrayIndexOutOfBoundsException</message>
+</record>
+<record>
+  <date>2020-02-11T17:30:43</date>
+  <millis>1581422443820</millis>
+  <sequence>1</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:31:28</date>
+  <millis>1581422488297</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:31:59</date>
+  <millis>1581422519268</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:32:15</date>
+  <millis>1581422535913</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-12T15:05:48</date>
+  <millis>1581500148713</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ5</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ5</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>

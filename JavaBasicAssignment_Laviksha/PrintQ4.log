@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T16:54:03</date>
+  <millis>1581420243768</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ4</logger>
+  <level>CONFIG</level>
+  <class>assignment.PrintQ4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2020-02-11T16:54:03</date>
+  <millis>1581420243787</millis>
+  <sequence>1</sequence>
+  <logger>assignment.PrintQ4</logger>
+  <level>SEVERE</level>
+  <class>assignment.PrintQ4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Error occur in FileHandler.</message>
+  <exception>
+    <message>java.lang.ArrayIndexOutOfBoundsException: 100</message>
+    <frame>
+      <class>assignment.PrintQ4</class>
+      <method>main</method>
+      <line>36</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T16:55:12</date>
+  <millis>1581420312146</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ4</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-11T17:18:34</date>
+  <millis>1581421714209</millis>
+  <sequence>0</sequence>
+  <logger>assignment.PrintQ4</logger>
+  <level>WARNING</level>
+  <class>assignment.PrintQ4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Can cause ArrayIndexOutOfBoundsException</message>
+</record>
+<record>
+  <date>2020-02-11T17:18:34</date>
+  <millis>1581421714237</millis>
+  <sequence>1</sequence>
+  <logger>assignment.PrintQ4</logger>
+  <level>FINE</level>
+  <class>assignment.PrintQ4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+</log>
